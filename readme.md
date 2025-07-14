@@ -1,6 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=%23%2300fce9&vCenter=true&repeat=false&width=900&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Chillie%2C+a+web+development+and+UI%2FUX+design+enthusiast.)](https://git.io/typing-svg)
-
-### 📊 GitHub Stats:
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FCE9&vCenter=true&width=900&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Chillie%2C+a+web+development+and+UI%2FUX+design+enthusiast.)](https://git.io/typing-svg)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=21Chillie&theme=dark&hide_border=false)
 
